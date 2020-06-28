@@ -17,6 +17,12 @@ class ViewController: UIViewController {
         print("做了个引导页")
     }
 
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        
+        print("界面优化")
+    }
 
 }
 
