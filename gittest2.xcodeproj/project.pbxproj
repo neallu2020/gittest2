@@ -13,6 +13,7 @@
 		90390F2F24A86F1B00802730 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90390F2D24A86F1B00802730 /* Main.storyboard */; };
 		90390F3124A86F1E00802730 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90390F3024A86F1E00802730 /* Assets.xcassets */; };
 		90390F3424A86F1E00802730 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90390F3224A86F1E00802730 /* LaunchScreen.storyboard */; };
+		90390F3C24A86F5E00802730 /* TableViewController222.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90390F3B24A86F5E00802730 /* TableViewController222.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		90390F3024A86F1E00802730 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90390F3324A86F1E00802730 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90390F3524A86F1E00802730 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90390F3B24A86F5E00802730 /* TableViewController222.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController222.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				90390F2724A86F1B00802730 /* AppDelegate.swift */,
 				90390F2924A86F1B00802730 /* SceneDelegate.swift */,
 				90390F2B24A86F1B00802730 /* ViewController.swift */,
+				90390F3B24A86F5E00802730 /* TableViewController222.swift */,
 				90390F2D24A86F1B00802730 /* Main.storyboard */,
 				90390F3024A86F1E00802730 /* Assets.xcassets */,
 				90390F3224A86F1E00802730 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90390F3C24A86F5E00802730 /* TableViewController222.swift in Sources */,
 				90390F2C24A86F1B00802730 /* ViewController.swift in Sources */,
 				90390F2824A86F1B00802730 /* AppDelegate.swift in Sources */,
 				90390F2A24A86F1B00802730 /* SceneDelegate.swift in Sources */,
